@@ -5,7 +5,7 @@ This page provides a bookmarklet to run the CS&AI Pybricks Bridge inside LEGO Co
 ## Install
 
 1. Open the page
-👉 https://TUOUSERNAME.github.io/NOME-REPO/
+https://danielebenedettelli.github.io/CSAI-Pybricks-Bridge/
 
 2. Show bookmarks bar:
 
