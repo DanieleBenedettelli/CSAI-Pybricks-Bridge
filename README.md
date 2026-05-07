@@ -11,22 +11,14 @@ https://danielebenedettelli.github.io/CSAI-Pybricks-Bridge/
 
    Ctrl + Shift + B
 
-3. Drag **CS&AI Pybricks Bridge** to the bookmarks bar
+3. Drag **CSAI Pybricks Bridge** button to the bookmarks bar
 4. Open Coding Canvas
-5. Click the bookmark
-
-## Quick test
-
-Drag the button directly onto the Coding Canvas page.
-
-This runs once but does not install.
-
-## Notes
-
-- Browsers do not allow automatic bookmark creation
-- Drag and drop is the simplest install method
-- Works best on Chrome desktop
-
-## GitHub Pages
-
-Put files in `/docs`:
+5. Click the bookmark on laptop
+6. On Android Chrome, clicking the bookmark does not work. 
+You should type "CSAI" in the address bar and click on the favorite link that is suggested)
+7. Download the Pybricks file CSAI_Bridge.py and load it into code.pybricks.com
+8. Write your own program and don't forget to import the needed classes
+```python
+from CSAI_Bridge import AIFeatures, Feature
+```
+9. Enjoy!
